@@ -1,0 +1,17 @@
+# Data and Models
+data/
+models/*.h5
+models/*.keras
+*.npy
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# OS and IDE
+.DS_Store
+.vscode/
+.ipynb_checkpoints/
